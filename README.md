@@ -60,6 +60,13 @@ Visualizations
 
 <img width="559" height="693" alt="Screenshot 2026-05-26 114328" src="https://github.com/user-attachments/assets/c0eafc0c-8095-42f5-b123-d3ded720b774" />
 
+<img width="561" height="301" alt="Screenshot 2026-05-26 114506" src="https://github.com/user-attachments/assets/fc7861d8-41ae-4c95-aa2f-bbff0dca4602" />
+
+
+<img width="561" height="301" alt="Screenshot 2026-05-26 114506" src="https://github.com/user-attachments/assets/85fa6d55-56df-47b0-b907-7a21b97f6cc9" />
+
+
+
 
 
 INSIGHTS AND RECOMMENDATION
